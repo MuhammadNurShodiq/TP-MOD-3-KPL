@@ -1,0 +1,10 @@
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\obj\Debug\TP_MOD_[03]_1302223054.csproj.AssemblyReference.cache
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\obj\Debug\TP_MOD__03__1302223054.Form1.resources
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\obj\Debug\TP_MOD__03__1302223054.Properties.Resources.resources
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\obj\Debug\TP_MOD_[03]_1302223054.csproj.GenerateResource.cache
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\obj\Debug\TP_MOD_[03]_1302223054.csproj.CoreCompileInputs.cache
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\bin\Debug\TP_MOD_[03]_1302223054.exe.config
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\bin\Debug\TP_MOD_[03]_1302223054.exe
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\bin\Debug\TP_MOD_[03]_1302223054.pdb
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\obj\Debug\TP_MOD_[03]_1302223054.exe
+C:\Praktikum\KPL\TP_MOD_[03]_1302223054\obj\Debug\TP_MOD_[03]_1302223054.pdb
