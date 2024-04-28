@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tabledriven", "tabledriven.csproj", "{9F5E7C8D-B38F-470E-BAD2-8E5641D85244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5E7C8D-B38F-470E-BAD2-8E5641D85244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5E7C8D-B38F-470E-BAD2-8E5641D85244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5E7C8D-B38F-470E-BAD2-8E5641D85244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5E7C8D-B38F-470E-BAD2-8E5641D85244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B43A6042-CE3D-4AEB-B3F7-C2A7A5CB8239}
+	EndGlobalSection
+EndGlobal

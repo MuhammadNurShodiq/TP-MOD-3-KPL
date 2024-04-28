@@ -1,0 +1,15 @@
+C:\Praktikum\KPL\enumerasi\bin\Debug\net8.0\enumerasi.exe
+C:\Praktikum\KPL\enumerasi\bin\Debug\net8.0\enumerasi.deps.json
+C:\Praktikum\KPL\enumerasi\bin\Debug\net8.0\enumerasi.runtimeconfig.json
+C:\Praktikum\KPL\enumerasi\bin\Debug\net8.0\enumerasi.dll
+C:\Praktikum\KPL\enumerasi\bin\Debug\net8.0\enumerasi.pdb
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\enumerasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\enumerasi.AssemblyInfoInputs.cache
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\enumerasi.AssemblyInfo.cs
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\enumerasi.csproj.CoreCompileInputs.cache
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\enumerasi.sourcelink.json
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\enumerasi.dll
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\refint\enumerasi.dll
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\enumerasi.pdb
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\enumerasi.genruntimeconfig.cache
+C:\Praktikum\KPL\enumerasi\obj\Debug\net8.0\ref\enumerasi.dll

@@ -1,0 +1,15 @@
+C:\Praktikum\KPL\tabledriven\bin\Debug\net8.0\tabledriven.exe
+C:\Praktikum\KPL\tabledriven\bin\Debug\net8.0\tabledriven.deps.json
+C:\Praktikum\KPL\tabledriven\bin\Debug\net8.0\tabledriven.runtimeconfig.json
+C:\Praktikum\KPL\tabledriven\bin\Debug\net8.0\tabledriven.dll
+C:\Praktikum\KPL\tabledriven\bin\Debug\net8.0\tabledriven.pdb
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\tabledriven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\tabledriven.AssemblyInfoInputs.cache
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\tabledriven.AssemblyInfo.cs
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\tabledriven.csproj.CoreCompileInputs.cache
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\tabledriven.sourcelink.json
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\tabledriven.dll
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\refint\tabledriven.dll
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\tabledriven.pdb
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\tabledriven.genruntimeconfig.cache
+C:\Praktikum\KPL\tabledriven\obj\Debug\net8.0\ref\tabledriven.dll

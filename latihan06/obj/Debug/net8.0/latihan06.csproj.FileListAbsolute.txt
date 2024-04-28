@@ -1,0 +1,15 @@
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\latihan06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\latihan06.AssemblyInfoInputs.cache
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\latihan06.AssemblyInfo.cs
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\latihan06.csproj.CoreCompileInputs.cache
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\latihan06.sourcelink.json
+C:\Praktikum\KPL\latihan06\bin\Debug\net8.0\latihan06.exe
+C:\Praktikum\KPL\latihan06\bin\Debug\net8.0\latihan06.deps.json
+C:\Praktikum\KPL\latihan06\bin\Debug\net8.0\latihan06.runtimeconfig.json
+C:\Praktikum\KPL\latihan06\bin\Debug\net8.0\latihan06.dll
+C:\Praktikum\KPL\latihan06\bin\Debug\net8.0\latihan06.pdb
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\latihan06.dll
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\refint\latihan06.dll
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\latihan06.pdb
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\latihan06.genruntimeconfig.cache
+C:\Praktikum\KPL\latihan06\obj\Debug\net8.0\ref\latihan06.dll
